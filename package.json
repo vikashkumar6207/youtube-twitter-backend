@@ -1,0 +1,11 @@
+{
+  "name": "youtube-twitter-project",
+  "version": "1.0.0",
+  "description": "this is a backend data for youtube-twitter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikash kumar",
+  "license": "ISC"
+}
